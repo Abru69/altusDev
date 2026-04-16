@@ -46,7 +46,7 @@ import { ScrollService } from '../../core/services/scroll.service';
       <div class="max-w-7xl mx-auto px-6 lg:px-8 flex justify-between items-center">
         <!-- Logo -->
         <a href="#" class="flex items-center gap-2 group" aria-label="AltusDev - Inicio">
-          <span class="font-extrabold text-2xl tracking-tight text-slate-900">AltusDev</span>
+          <img src="assets/images/logo.webp" alt="AltusDev Logo" class="h-10 w-auto" />
         </a>
 
         <!-- Desktop Nav Links -->
